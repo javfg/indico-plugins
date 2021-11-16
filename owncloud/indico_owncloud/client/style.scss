@@ -1,0 +1,16 @@
+@import 'base/palette';
+
+form#attachment-owncloudfilepicker-form.full-width .owncloudfilepicker {
+  width: 770px;
+  height: 280px;
+  border: 1px solid $light-gray;
+  overflow-y: scroll;
+}
+
+.owncloudfilepicker {
+  width: 100%;
+}
+
+.button-label {
+  margin-left: .4rem;
+}

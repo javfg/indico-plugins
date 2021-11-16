@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "indico-plugin-owncloud",
+    "dependencies": {
+        "@ownclouders/file-picker": "file:../../../../../ownclouders-file-picker-v0.10.0.tgz",
+        "oidc-client": "^1.11.5"
+    }
+}

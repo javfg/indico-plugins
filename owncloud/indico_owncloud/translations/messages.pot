@@ -1,0 +1,59 @@
+# Translations template for PROJECT.
+# Copyright (C) 2021 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-11-11 15:15+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: indico_owncloud/controllers.py:32 indico_owncloud/forms.py:36
+msgid "Files"
+msgstr ""
+
+#: indico_owncloud/controllers.py:80
+msgid "Attachment added"
+msgstr ""
+
+#: indico_owncloud/plugin.py:25
+msgid "OwnCloud Server"
+msgstr ""
+
+#: indico_owncloud/plugin.py:26
+msgid "URL of the OwnCloud server"
+msgstr ""
+
+#: indico_owncloud/plugin.py:27
+msgid "Client ID"
+msgstr ""
+
+#: indico_owncloud/plugin.py:28
+msgid "Client Secret"
+msgstr ""
+
+#: indico_owncloud/templates/add_owncloud_files.html:9
+msgid "Add"
+msgstr ""
+
+#: indico_owncloud/templates/add_owncloud_files.html:10
+msgid "Cancel"
+msgstr ""
+
+#: indico_owncloud/templates/owncloud_button.html:3
+msgid "Add files from a cloud storage service"
+msgstr ""
+
+#: indico_owncloud/templates/owncloud_button.html:5
+msgid "From the cloud"
+msgstr ""
+
